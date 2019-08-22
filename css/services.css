@@ -1,18 +1,16 @@
-#blog h3,h4 {
-    text-align: center
-}
-
-#blog .container {
+#services .container-service {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
 }
 
-#blog article {
+#services article {
     margin: 15px;
 }
 
-#blog img {
-    width: 100%;
-    max-width: 280px;
+#services img {
+    width: 900px;
 }

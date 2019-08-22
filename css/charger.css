@@ -1,0 +1,56 @@
+#chargers-tittle h2 {
+   margin-top: 100px;
+   text-align: center;
+   font-size: 40px;
+   
+}
+
+#tabla1{ 
+    border: 5px solid #000000; 
+    margin-top: 100px;
+ } 
+
+ p{ 
+    text-align: center;
+    background-color: #ffffff; 
+    font-size: 60px;
+    color: #0269bd;
+ }
+
+ footer {
+    background-color: rgb(81, 86, 90);
+    margin-top: 223px;
+}
+
+.container {
+   padding: 20px;
+}
+
+.electronic-mail {
+   position: absolute;
+   left: 10px;
+   width: 1290px;
+   text-align: left;
+
+}
+
+.electronic-mail h4 {
+   font-size: 25px;
+   color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.address {
+   position: absolute;
+   left: 280px;
+   width: 1290px;
+   text-align: right;
+     
+}
+
+.address h4 {
+   font-size: 25px;
+   color: rgb(255, 255, 255);
+  text-decoration: none;
+
+}
