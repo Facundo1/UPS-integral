@@ -23,3 +23,75 @@
 #info-ups h3{
     text-align: center
 }
+
+#info-ups h2 {
+    margin-top: 100px;
+    text-align: center;
+  }
+
+  #info-batteries .container-batteries-storage {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#info-batteries article {
+    margin: 15px;
+    margin-top: 50px;
+}
+
+#info-batteries img {
+    width: 100%;
+    max-width: 280px;
+}
+#info-batteries .button {
+    width: 100%;
+    max-width: 280px;
+    background-color:  rgb(81, 86, 90);
+    color: #ffffff;
+    border: 1px solid  rgb(81, 86, 90);
+}
+#info-batteries h3{
+    text-align: center
+}
+
+#info-batteries h2 {
+    margin-top: 100px;
+    text-align: center;
+  }
+
+  #info-batteries .container-batteries-reserve {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#info-batteries article {
+    margin: 15px;
+    margin-top: 50px;
+}
+
+#info-batteries img {
+    width: 100%;
+    max-width: 280px;
+}
+#info-batteries .button {
+    width: 100%;
+    max-width: 280px;
+    background-color:  rgb(81, 86, 90);
+    color: #ffffff;
+    border: 1px solid  rgb(81, 86, 90);
+}
+#info-batteries h3{
+    text-align: center
+}
+
+#info-batteries h2 {
+    margin-top: 100px;
+    text-align: center;
+  }
+
+
+.container-footer {
+    margin-top: 150px;
+}  

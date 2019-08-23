@@ -33,6 +33,7 @@
     margin:5px;
     flex-basis: 0;
   }
+  
   .texto{
     flex-grow:1;
     font-size: 15px;
