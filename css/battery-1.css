@@ -1,0 +1,50 @@
+.container-info-batteries{
+    display:flex;
+    height: 500px;
+    margin-top: 50px;
+  }
+  
+  .container-info-batteries * {
+    margin:5px;
+    flex-basis: 0;
+  }
+  .texto{
+    flex-grow:1;
+    font-size: 15px;
+  }
+  .texto p {
+      font-size: 20px;
+  }
+  
+  .imagen{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    flex-grow:1;
+  }
+  .img-little-general {
+      display: flex;
+  }
+  
+  .img-little {
+    border: 1px solid rgb(81, 86, 90);
+  }
+
+  .img-batteries {
+      width: 500px;
+      height: 300px;
+      border: 1px solid rgb(81, 86, 90);
+      padding: 5px;
+  }
+  .technical-data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 60px;
+    margin-top: -50px;
+  }
+
+  .technical-data img {
+    width: 900px;
+  }

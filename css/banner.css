@@ -1,7 +1,3 @@
-#banner {
-    margin-top: 50px;
-}
-
 .slider {
     width: 100%;
     margin: auto;
@@ -12,7 +8,7 @@
     display: flex;
     padding: 0;
     width: 400%;    
-    animation: cambio 25s infinite;
+    animation: cambio 10s infinite;
     animation-direction: alternate;
     animation-timing-function: ease-in-out;
 }

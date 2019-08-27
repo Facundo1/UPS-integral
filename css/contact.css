@@ -1,3 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+   /* background-color: green;*/
+}
+.container * {
+    flex-basis: 0;
+    box-sizing: border-box;
+}
+.logo-ups {
+    display: flex;
+    flex-direction: row;
+   /* background-color: blue;*/
+}
+.logo-ups * {
+    flex-basis: 0;
+    margin: 2px;
+    box-sizing: border-box;
+}
+img {
+    width: 70px;
+   /* background: #000000; */
+  }
+  .h1-logo {
+     /* background-color: yellow;*/
+  }
+  h1 {
+      padding-top: 20px;
+      padding: 10px;
+    /*  background-color: aqua; */
+      width: 200px;
+  }
 form {
     width: 400px;
     margin: auto;
@@ -40,17 +72,17 @@ textarea {
 }
 .divcontact * {
     flex-basis: 0;
+    box-sizing: border-box;
 }
 
 .divcontact{
     display:flex;
-    flex-direction: column;
-    height: 1000px;
+    flex-direction: row;
     margin-top: 50px;
 }
 p{
     color: #000000;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: helvetica;
     font-weight: bold;
 }
 
@@ -61,7 +93,9 @@ p{
     justify-content: flex-start;
     flex-grow: 1;
     padding: 10px;
-    height: 500px;
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .google-maps {
     height: 0;
@@ -76,12 +110,9 @@ p{
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     flex-grow:1;
-    height: 200px;
 }
 
-@media (max-widht:480px){
-    form{
-        width: 100%;
-    }
-}
