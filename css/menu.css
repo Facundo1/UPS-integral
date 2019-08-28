@@ -8,7 +8,8 @@
     flex-direction: row;
     align-items: center;
     justify-content: flex-end;
-    width: 1000px;
+    width: auto;
+
 }
 button {
     width: 150px;
@@ -25,25 +26,41 @@ button {
     background: rgba(255,255,255,0.3);
 }
 
-#menu-bar:checked ~ #menu {
-    transform: translateX(0%) 
- }
-@media (min-width:1024px) {
+ @media (max-width:1010px) {
+    #menu {
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #menu button:hover {
+        background: rgba(255,255,255,0.3);
+    }
+
+    #menu button {
+        border: 2px solid #ffffff;
+        width: 400px;
+    }
+
+    header label {
+        display: none;
+    }
+@media (max-width:800px) {
      #menu {
-         position: static;
-         width: auto;
-         height: auto;
-         transform: translateX(0%);
-         float: right;
+         
          display: flex;
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
      }
 
-     .menu a {
-         border: none;
+     #menu button {
+         border: 2px solid #ffffff;
      }
 
      header label {
          display: none;
      }
 }
- 
+} 

@@ -26,3 +26,12 @@
 footer {
     background-color: rgb(81, 86, 90);
 }
+
+@media (max-width:380px) {
+   #container-tabla {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+ }
