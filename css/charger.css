@@ -9,6 +9,7 @@
    justify-content: center;
    align-items: center;
    height: 500px;
+   margin: 81px;
 }
 .tabla1{ 
     margin: 30px;
@@ -19,7 +20,7 @@
 
  p{ 
     text-align: center;
-    font-size: 28px;
+    font-size: 25px;
     color: rgb(81, 86, 90);
  }
 
