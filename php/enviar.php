@@ -4,7 +4,7 @@
  $correo=$_POST["Correo"];
  $telefono=$_POST["Telefono"];
  $mensaje=$_POST["Mensaje"];
- $contenido="Nombre: ".$nombre."\nCorreo: ".$correo. "\Telefono: ".$telefono. "\nMensaje: ".$mensaje;
- mail($destino,"Contacto", $contenido);
- header("Location:contact.html");
+ $contenido="Nombre: ".$nombre."\nCorreo: ".$correo. "\nTelefono: ".$telefono. "\nMensaje: ".$mensaje;
+ mail($destino,"CLIENTE DE UPS INTEGRAL", $contenido);
+ header("Location: ../contact.html");
 ?>

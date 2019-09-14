@@ -3,14 +3,16 @@
     text-align: center;
     font-size: 30px;
  }
+
  #container-tabla{
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
     height: 500px;
-    margin: 81px;
+    margin: 82px;
  }
+
  .tabla1{ 
      margin: 30px;
      border: 5px solid #000000;
