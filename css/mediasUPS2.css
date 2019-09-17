@@ -1,0 +1,189 @@
+@media (max-width:790px) {
+  .texto p {
+   font-size: 15px ; 
+  }
+  .texto h2 {
+    font-size: 15px;
+  }
+  .imagen img{
+    flex-direction: column;
+    width: 226px;
+    height: 226px;
+  }
+
+  .technical-data {
+    margin-top: -200px;
+  }
+
+  .technical-data h2{
+    font-size: 15px;
+  }
+  
+
+  .technical-data img {
+    width: 779px;
+  }
+}
+@media (max-width:630px) {
+  .texto p {
+   font-size: 15px ; 
+  }
+  .texto h2 {
+    font-size: 15px;
+  }
+  .imagen img{
+    flex-direction: column;
+    width: 206px;
+    height: 206px;
+  }
+
+  .technical-data {
+    margin-top: -190px;
+  }
+
+  .technical-data h2{
+    font-size: 15px;
+  }
+  
+
+  .technical-data img {
+    width: 460px;
+  }
+}
+@media (max-width:500px) {
+    .texto p {
+     font-size: 15px ; 
+    }
+    .texto h2 {
+      font-size: 15px;
+    }
+    .imagen img{
+      flex-direction: column;
+      width: 186px;
+      height: 186px;
+    }
+
+    .technical-data {
+      margin-top: -170px;
+    }
+
+    .technical-data h2{
+      font-size: 15px;
+    }
+    
+ 
+    .technical-data img {
+      width: 400px;
+    }
+}
+@media (max-width:423px) {
+  .texto p {
+   font-size: 11.5px ; 
+  }
+
+  .texto h2 {
+    font-size: 15px;
+  }
+  .imagen img{
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+  }
+ 
+  .technical-data {
+    margin-top: -200px;
+  }
+
+  
+.technical-data h2{
+  font-size: 15px;
+}
+
+  .technical-data img {
+    width: 406px;
+  }
+}
+
+@media (max-width:380px) {
+  .texto p {
+   font-size: 10px ; 
+  }
+
+  .texto h2 {
+    font-size: 15px;
+}
+  .imagen img{
+    flex-direction: column;
+    width: 172px;
+    height: 172px;
+  }
+  .img-little img{
+    width: 40px;
+  }
+
+  .technical-data {
+    margin-top: -260px;
+  }
+
+  
+.technical-data h2{
+  font-size: 15px;
+}
+
+  .technical-data img {
+    width: 360px;
+  }
+}
+
+@media (max-width:360px) {
+    .texto p {
+     font-size: 9px ; 
+    }
+    .texto h2 {
+        font-size: 15px;
+    }
+    .imagen img{
+      flex-direction: column;
+      width: 172px;
+      height: 172px;
+    }
+    
+    .technical-data {
+      margin-top: -220px;
+    }
+
+    
+  .technical-data h2{
+    font-size: 15px;
+  }
+
+    .technical-data img {
+      width: 312px;
+    }
+  }
+
+@media (max-width:320px) {
+  .texto p {
+   font-size: 8px ; 
+  }
+  .texto h2 {
+      font-size: 13px;
+  }
+  .imagen img{
+    flex-direction: column;
+    width: 172px;
+    height: 172px;
+  }
+
+  .technical-data {
+    margin-top: -226px;
+  }
+
+  .technical-data h2{
+    font-size: 13px;
+  }
+
+  .technical-data img {
+    width: 276px;
+  }
+}

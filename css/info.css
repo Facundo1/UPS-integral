@@ -21,13 +21,14 @@
     border: 8px solid #fff;
 }
 #blog h3,h4 {
-    text-align: center
+    text-align: center;
 }
 
-#blog .container {
+#blog .container-blog {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 #blog article {
