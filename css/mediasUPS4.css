@@ -1,0 +1,253 @@
+@media (max-width:790px) {
+    .texto p {
+     font-size: 19px ; 
+    }
+    .texto h2 {
+      font-size: 19px;
+    }
+    .imagen img{
+      flex-direction: column;
+      width: 190px;
+      height: 190px;
+    }  
+
+    .img-little img{
+        width: 90px;
+        height: 90px;
+      }
+  
+    .technical-data h2{
+      font-size: 10px;
+    }
+
+    .technical-data {
+        margin-top: -190px;
+      }
+    
+  
+    .technical-data img {
+      width: 700px;
+    }
+  }
+  @media (max-width:715px) {
+    .texto p {
+     font-size: 14px ; 
+    }
+    .texto h2 {
+      font-size: 14px;
+    }
+    .imagen img{
+      flex-direction: column;
+      width: 160px;
+      height: 160px;
+    }
+
+    .img-little img{
+        width: 80px;
+        height: 80px;
+      }
+  
+    .technical-data {
+      margin-top: -190px;
+    }
+
+  
+    .technical-data h2{
+      font-size: 10px;
+    }
+    
+  
+    .technical-data img {
+      width: 460px;
+    }
+  }
+  @media (max-width:500px) {
+      .texto p {
+       font-size: 11.5px ; 
+      }
+      .texto h2 {
+        font-size: 11.5px;
+      }
+      .imagen img{
+        flex-direction: column;
+        width: 140px;
+        height: 140px;
+      }
+
+      .img-little img{
+        width: 70px;
+        height: 70px;
+      }
+  
+      .technical-data {
+        margin-top: -170px;
+      }
+  
+      .technical-data h2{
+        font-size: 11px;
+      }
+      
+   
+      .technical-data img {
+        width: 400px;
+      }
+  }
+  @media (max-width:423px) {
+    .texto p {
+     font-size: 10px ; 
+    }
+  
+    .texto h2 {
+      font-size: 9px;
+    }
+    .imagen img{
+      flex-direction: column;
+      width: 120px;
+      height: 120px;
+    }
+
+    .img-little img{
+        width: 60px;
+        height: 60px;
+      }
+   
+    .technical-data {
+      margin-top: -200px;
+    }
+  
+    
+  .technical-data h2{
+    font-size: 10px;
+  }
+  
+    .technical-data img {
+      width: 376px;
+    }
+  }
+  
+  @media (max-width:380px) {
+    .texto p {
+     font-size: 9px ; 
+    }
+  
+    .texto h2 {
+      font-size: 10px;
+  }
+    .imagen img{
+      flex-direction: column;
+      width: 100px;
+      height: 100px;
+    }
+    .img-little img{
+      width: 50px;
+      height: 50px;
+    }
+  
+    .technical-data {
+      margin-top: -280px;
+    }
+  
+    
+  .technical-data h2{
+    font-size: 10px;
+  }
+  
+    .technical-data img {
+      width: 334px;
+    }
+  }
+  
+  @media (max-width:360px) {
+      .texto p {
+       font-size: 9px ; 
+      }
+      .texto h2 {
+          font-size: 8px;
+      }
+      .imagen img{
+        flex-direction: column;
+        width: 80px;
+        height: 80px;
+      }
+      
+      .technical-data {
+        margin-top: -290px;
+      }
+
+      .img-little img{
+        width: 40px;
+        height: 40px;
+      }
+  
+      
+    .technical-data h2{
+      font-size: 8px;
+    }
+  
+      .technical-data img {
+        width: 332px;
+      }
+    }
+  
+    @media (max-width:340px) {
+        .texto p {
+         font-size: 9px ; 
+        }
+        .texto h2 {
+            font-size: 9px;
+        }
+        .imagen img{
+          flex-direction: column;
+          width: 70px;
+          height: 70px;
+        }
+
+        .img-little img{
+            width: 35px;
+            height: 35px;
+          }
+        
+        .technical-data {
+          margin-top: -310px;
+        }
+    
+        
+      .technical-data h2{
+        font-size: 8px;
+      }
+    
+        .technical-data img {
+          width: 332px;
+        }
+      }
+
+  @media (max-width:320px) {
+    .texto p {
+     font-size: 7px ; 
+    }
+    .texto h2 {
+        font-size: 8px;
+    }
+    .imagen img{
+      flex-direction: column;
+      width: 60px;
+      height: 60px;
+    }
+
+    .img-little img{
+        width: 30px;
+        height: 30px;
+      }
+  
+    .technical-data {
+      margin-top: -360px;
+    }
+  
+    .technical-data h2{
+      font-size: 8px;
+    }
+  
+    .technical-data img {
+      width: 304px;
+    }
+  }
