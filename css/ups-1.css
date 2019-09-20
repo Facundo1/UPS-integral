@@ -10,10 +10,10 @@
   }
   .texto{
     flex-grow:1;
-    font-size: 15px;
+    font-size: 18px;
   }
   .texto p {
-      font-size: 20px;
+      font-size: 18px;
   }
   
   .imagen{

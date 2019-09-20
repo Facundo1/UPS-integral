@@ -18,17 +18,18 @@
     box-sizing: border-box;
 }
 img {
-    width: 70px;
+    width: 50px;
    /* background: #000000; */
   }
   .h1-logo {
      /* background-color: yellow;*/
   }
   h1 {
-      padding-top: 20px;
-      padding: 10px;
-    /*  background-color: aqua; */
-      width: 200px;
+   padding-top: 10px;
+   float: left;
+   height: 10px;
+   font-size: 22px;
+   color:#fff;
   }
 form {
     width: 400px;

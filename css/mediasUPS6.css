@@ -1,0 +1,263 @@
+@media (max-width:790px) {
+    .texto p {
+        font-size: 13.2px ; 
+       }
+       .texto h2 {
+           font-size: 13.2px;
+           
+       }
+       .imagen img{
+         flex-direction: column;
+         width: 166px;
+         height: 166px;
+       }
+   
+       .img-little img{
+           width: 77px;
+           height: 77px;
+         }
+     
+       .technical-data {
+         margin-top: -210px;
+       }
+     
+       .technical-data h2{
+         font-size: 13px;
+       }
+     
+       .technical-data img {
+         width: 550px;         
+       }
+     }
+    @media (max-width:715px) {
+        .texto p {
+            font-size: 10.2px ; 
+           }
+           .texto h2 {
+               font-size: 10.2px;
+               
+           }
+           .imagen img{
+             flex-direction: column;
+             width: 156px;
+             height: 156px;
+           }
+       
+           .img-little img{
+               width: 67px;
+               height: 67px;
+             }
+         
+           .technical-data {
+             margin-top: -250px;
+           }
+         
+           .technical-data h2{
+             font-size: 12px;
+           }
+         
+           .technical-data img {
+             width: 450px;         
+           }
+         }
+  
+    @media (max-width:500px) {
+        .texto p {
+            font-size: 9.4px ; 
+           }
+           .texto h2 {
+               font-size: 9.4px;
+               
+           }
+           .imagen img{
+             flex-direction: column;
+             width: 146px;
+             height: 146px;
+           }
+       
+           .img-little img{
+               width: 57px;
+               height: 57px;
+             }
+         
+           .technical-data {
+             margin-top: -250px;
+           }
+         
+           .technical-data h2{
+             font-size: 11px;
+           }
+         
+           .technical-data img {
+             width: 330px;         
+           }
+         }
+  
+  
+    @media (max-width:423px) {
+        .texto p {
+            font-size: 9.5px ; 
+           }
+           .texto h2 {
+               font-size: 9.5px;
+               
+           }
+           .imagen img{
+             flex-direction: column;
+             width: 136px;
+             height: 136px;
+           }
+       
+           .img-little img{
+               width: 47px;
+               height: 47px;
+             }
+         
+           .technical-data {
+             margin-top: -190px;
+           }
+         
+           .technical-data h2{
+             font-size: 10px;
+           }
+         
+           .technical-data img {
+             width: 330px;         
+           }
+         }
+  
+    
+  
+    
+    @media (max-width:380px) {
+        .texto p {
+            font-size: 8.5px ; 
+           }
+           .texto h2 {
+               font-size: 8.5px;
+               
+           }
+           .imagen img{
+             flex-direction: column;
+             width: 116px;
+             height: 116px;
+           }
+       
+           .img-little img{
+               width: 37px;
+               height: 37px;
+             }
+         
+           .technical-data {
+             margin-top: -210px;
+           }
+         
+           .technical-data h2{
+             font-size: 8px;
+           }
+         
+           .technical-data img {
+             width: 310px;         
+           }
+         }
+  
+    
+    
+    @media (max-width:360px) {
+        .texto p {
+            font-size: 8.5px ; 
+           }
+           .texto h2 {
+               font-size: 8.5px;
+               
+           }
+           .imagen img{
+             flex-direction: column;
+             width: 116px;
+             height: 116px;
+           }
+       
+           .img-little img{
+               width: 37px;
+               height: 37px;
+             }
+         
+           .technical-data {
+             margin-top: -210px;
+           }
+         
+           .technical-data h2{
+             font-size: 8px;
+           }
+         
+           .technical-data img {
+             width: 310px;         
+           }
+         }
+  
+    
+      @media (max-width:340px) {
+        .texto p {
+            font-size: 8px ; 
+           }
+           .texto h2 {
+               font-size: 8px;
+               
+           }
+           .imagen img{
+             flex-direction: column;
+             width: 116px;
+             height: 116px;
+           }
+       
+           .img-little img{
+               width: 37px;
+               height: 37px;
+             }
+         
+           .technical-data {
+             margin-top: -210px;
+           }
+         
+           .technical-data h2{
+             font-size: 8px;
+           }
+         
+           .technical-data img {
+             width: 280px;
+         
+           }
+         }
+  
+    @media (max-width:320px) {
+      .texto p {
+       font-size: 7px ; 
+      }
+      .texto h2 {
+          font-size: 8px;
+          
+      }
+      .imagen img{
+        flex-direction: column;
+        width: 96px;
+        height: 96px;
+      }
+  
+      .img-little img{
+          width: 27px;
+          height: 27px;
+        }
+    
+      .technical-data {
+        margin-top: -240px;
+      }
+    
+      .technical-data h2{
+        font-size: 8px;
+      }
+    
+      .technical-data img {
+        width: 280px;
+    
+      }
+    }

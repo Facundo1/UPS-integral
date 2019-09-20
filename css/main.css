@@ -21,9 +21,10 @@ header {
   z-index: 100;
 }
 h1{
-  float: left;
+   padding-top: 10px;
+   float: left;
    height: 10px;
-   font-size: 18px;
+   font-size: 22px;
    color:#fff;
 }
 .container {
