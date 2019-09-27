@@ -1,0 +1,13 @@
+@media (max-width:900px) {
+   .divcontact {
+    display:flex;
+    flex-direction: column;
+    height: 100%;
+   }
+   .maps {
+    width: 100%;
+   }
+   .Form {
+    width: 100%;
+   }
+}

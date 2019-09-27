@@ -5,7 +5,7 @@
   }
   
   .container-info-batteries * {
-    margin:5px;
+    margin:1px;
     flex-basis: 0;
   }
   .texto{
@@ -30,7 +30,6 @@
   .img-batteries {
       width: 300px;
       height: 300px;
-     
       padding: 5px;
   }
   .technical-data {
